@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e4134b7-97f0-4e39-b47d-f1a6cfb02397" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/convert_image_to_video.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distance_estimator/inference.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distance-estimator/generate-csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/distance_estimator/generate-csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distance-estimator/hyperopti.py" beforeDir="false" afterPath="$PROJECT_DIR$/distance_estimator/hyperopti.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distance-estimator/inference.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/distance-estimator/models/model@1535470106.h5" beforeDir="false" afterPath="$PROJECT_DIR$/distance_estimator/models/model@1535470106.h5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distance-estimator/models/model@1535470106.json" beforeDir="false" afterPath="$PROJECT_DIR$/distance_estimator/models/model@1535470106.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distance-estimator/models/model@1535477330.h5" beforeDir="false" afterPath="$PROJECT_DIR$/distance_estimator/models/model@1535477330.h5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distance-estimator/models/model@1535477330.json" beforeDir="false" afterPath="$PROJECT_DIR$/distance_estimator/models/model@1535477330.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distance-estimator/plot_history.py" beforeDir="false" afterPath="$PROJECT_DIR$/distance_estimator/plot_history.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distance-estimator/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/distance_estimator/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distance-estimator/scripts/download-kitti-dataset.sh" beforeDir="false" afterPath="$PROJECT_DIR$/distance_estimator/scripts/download-kitti-dataset.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distance-estimator/scripts/organize-dataset-format.sh" beforeDir="false" afterPath="$PROJECT_DIR$/distance_estimator/scripts/organize-dataset-format.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distance-estimator/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/distance_estimator/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distance-estimator/training_continuer.py" beforeDir="false" afterPath="$PROJECT_DIR$/distance_estimator/training_continuer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distance-estimator/visualizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/distance_estimator/visualizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/configure-yolo-yaml.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/create-yaml.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/data/Argoverse.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/data/GlobalWheat2020.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/data/Objects365.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/data/SKU-110K.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/data/VOC.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/data/VisDrone.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/data/coco.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/data/coco128.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/data/dataset.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/data/hyps/hyp.Objects365.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/data/hyps/hyp.VOC.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/data/hyps/hyp.scratch-high.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/data/hyps/hyp.scratch-low.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/data/hyps/hyp.scratch-med.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/data/scripts/download_weights.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/data/scripts/get_coco.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/data/scripts/get_coco128.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/data/xView.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/detect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/display-examples.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/display-results-graph.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/export.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/format-dataset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/generate-coordinates-sheet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/hubconf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/models/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/models/common.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/models/experimental.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/models/hub/anchors.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/models/hub/yolov3-spp.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/models/hub/yolov3-tiny.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/models/hub/yolov3.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/models/hub/yolov5-bifpn.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/models/hub/yolov5-fpn.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/models/hub/yolov5-p2.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/models/hub/yolov5-p34.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/models/hub/yolov5-p6.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/models/hub/yolov5-p7.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/models/hub/yolov5-panet.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/models/hub/yolov5l6.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/models/hub/yolov5m6.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/models/hub/yolov5n6.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/models/hub/yolov5s-ghost.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/models/hub/yolov5s-transformer.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/models/hub/yolov5s6.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/models/hub/yolov5x6.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/models/tf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/models/yolo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/models/yolov5l.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/models/yolov5m.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/models/yolov5n.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/models/yolov5s.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/models/yolov5x.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/scripts/download-flir-dataset.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/scripts/download-training-results.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/setup.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/setup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/training-results/F1_curve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/training-results/PR_curve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/training-results/P_curve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/training-results/R_curve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/training-results/confusion_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/training-results/events.out.tfevents.1649320718.643dfe7de3d8.3864.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/training-results/hyp.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/training-results/labels.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/training-results/labels_correlogram.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/training-results/opt.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/training-results/results.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/training-results/results.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/training-results/train_batch0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/training-results/train_batch1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/training-results/train_batch2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/training-results/val_batch0_labels.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/training-results/val_batch0_pred.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/training-results/val_batch1_labels.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/training-results/val_batch1_pred.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/training-results/val_batch2_labels.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/training-results/val_batch2_pred.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/training-results/weights/best.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/training-results/weights/last.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/utils/activations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/utils/augmentations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/utils/autoanchor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/utils/autobatch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/utils/aws/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/utils/aws/mime.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/utils/aws/resume.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/utils/aws/userdata.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/utils/benchmarks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/utils/callbacks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/utils/dataloaders.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/utils/docker/.dockerignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/utils/docker/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/utils/docker/Dockerfile-arm64" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/utils/docker/Dockerfile-cpu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/utils/downloads.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/utils/flask_rest_api/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/utils/flask_rest_api/example_request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/utils/flask_rest_api/restapi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/utils/general.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/utils/google_app_engine/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/utils/google_app_engine/additional_requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/utils/google_app_engine/app.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/utils/loggers/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/utils/loggers/wandb/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/utils/loggers/wandb/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/utils/loggers/wandb/log_dataset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/utils/loggers/wandb/sweep.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/utils/loggers/wandb/sweep.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/utils/loggers/wandb/wandb_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/utils/loss.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/utils/metrics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/utils/plots.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/utils/torch_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/val.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-detector/yolov5s.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials/distance_estimation.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials/object_detection.ipynb" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HNdZ8uAjg28XNSvGufs8v0ZEwL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/evils/Machine_learning/distance_estimation/object_detection-PLUS-distance_estimation-v1"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="object_detection-PLUS-distance_estimation-v1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e4134b7-97f0-4e39-b47d-f1a6cfb02397" name="Changes" comment="" />
+      <created>1668129527267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668129527267</updated>
+    </task>
+    <servers />
+  </component>
+</project>
